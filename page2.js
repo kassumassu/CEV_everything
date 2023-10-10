@@ -1,0 +1,1 @@
+alert('in page two you can see photos!') 
